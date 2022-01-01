@@ -1,4 +1,17 @@
 ### Hi there 👋
+<h1 align="center">Hello 👋 I'm Mauricio Raúl Ferreyra</h1>
+<h3 align="center">I am Full Stack Web Developer 🚀</h3>
+<h4 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h4>
+
+       🌱 I am self-taught and I am constantly updating myself with the new technologies on the market.
+
+       💬 My skills are : Javascript, React, Redux, Typescript, Css, Html, Node, Express, Sequilize, PostgreSQL
+
+       📫 You can contact me by email mauriciotauro82@gmail.com
+       
+       🌱 I’m currently learning ...
+       
+       
 
 <!--
 **MauricioRaulFerreyra/MauricioRaulFerreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
