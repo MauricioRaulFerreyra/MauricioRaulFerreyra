@@ -5,7 +5,7 @@
 
        🌱 I am self-taught and I am constantly updating myself with the new technologies on the market.
 
-       💬 My skills are : Javascript, React, Redux, Typescript, Css, Html, Node, Express, Sequilize, PostgreSQL
+       💬 My skills are : Javascript, React, Redux, Css, Html, Node, Express, Sequilize, PostgreSQL
 
        📫 You can contact me by email mauriciotauro82@gmail.com
        
