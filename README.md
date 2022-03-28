@@ -7,7 +7,7 @@
 
        💬 My skills are : Javascript, React, Redux, Css, Html, Node, Express, Sequilize, PostgreSQL
 
-       📫 You can contact me by email mauriciotauro82@gmail.com
+       📫 You can contact me by email mauriciotauro82@gmail.com  https://www.linkedin.com/in/mauricio0789/
        
        🌱 I’m currently learning ...
        
