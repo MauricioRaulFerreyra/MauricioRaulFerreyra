@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hello 👋 I'm Mauricio Raúl Ferreyra</h1>
-<h3 align="center">I am Full Stack Web Developer 🚀</h3>
-<h4 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h4>
+<h1 align="center">I am Full Stack Web Developer 🚀</h3>
+<h1 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h4>
 
        🌱 I am self-taught and I am constantly updating myself with the new technologies on the market.
 
