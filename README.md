@@ -1,7 +1,13 @@
-### Hi there 👋
-<h1 align="center">Hello 👋 I'm Mauricio Raúl Ferreyra</h1>
-<h1 align="center">I am Full Stack Web Developer 🚀</h3>
-<h1 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h4>
+
+<h2 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h2>
+
+## Hi there👋 😄
+### 🔶 My name is Mauricio Raul Ferreyra, and I am a Full Stack Developer. 💻 🚀 😎
+### 🔶 In 2021, I enter Henry Bootcamp. 💥 🚀
+### 🔶 With +800 hours of programming based on practices and real projects, I learned some of the most demanded skills in the market: HTML, CSS, Javascript, React, Redux, Express, SQL, Sequelize. 😜
+### 🔶 My individual project was Countries App, a SPA using React for the Front End and Redux as stage management. The components were developed with pure CSS, without the use of external libraries. It consumes data from an API through a Back End developed in NodeJS using Express. 💥
+### 🔶 I am currently working on deviaje.com with classmates. 🚀✊🔭
+### 🔶 I you like to know more about me, I leave my Linkedin profile for you: https://www.linkedin.com/in/mauricio0789/ 👀 💪
 
        🌱 I am self-taught and I am constantly updating myself with the new technologies on the market.
 
