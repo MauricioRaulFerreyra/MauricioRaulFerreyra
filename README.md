@@ -1,5 +1,4 @@
 
-<h2 align="center">I like to start programming from the Back-End and then move to the Front-End 😎</h2>
 
 ## Hi there👋 😄
 ### 🔶 My name is Mauricio Raul Ferreyra, and I am a Full Stack Developer. 💻 🚀 😎
