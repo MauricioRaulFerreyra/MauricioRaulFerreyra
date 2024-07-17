@@ -23,10 +23,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="60"/> </a> 
 <a href="https://java.js.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="60" /> </a>
-<a href="https://www.rust-lang.org/es" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="70" height="60" /> </a>
+<!-- <a href="https://www.rust-lang.org/es" target="_blank">  -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="70" height="60" /> </a>
 <a href="https://www.go.dev" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="60" /> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="60" /> </a> -->
 <a href="https://nodejs.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="60"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="60"/> </a> 
